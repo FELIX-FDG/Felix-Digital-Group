@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://felix-fdg.github.io/Felix-Digital-Group/sitemap.xml
